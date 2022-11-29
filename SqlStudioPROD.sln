@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.3.32819.101
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SqlStudioPROD", "SqlStudioPROD.csproj", "{2BFE7AE0-A8F7-4BB3-8F9C-050A5AA2F8FC}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SqlStudioTest", "..\SqlStudioTest\SqlStudioTest.csproj", "{27E1ED4F-14F0-47EC-BB24-98ADBAD23850}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{2BFE7AE0-A8F7-4BB3-8F9C-050A5AA2F8FC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2BFE7AE0-A8F7-4BB3-8F9C-050A5AA2F8FC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2BFE7AE0-A8F7-4BB3-8F9C-050A5AA2F8FC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2BFE7AE0-A8F7-4BB3-8F9C-050A5AA2F8FC}.Release|Any CPU.Build.0 = Release|Any CPU
+		{27E1ED4F-14F0-47EC-BB24-98ADBAD23850}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{27E1ED4F-14F0-47EC-BB24-98ADBAD23850}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{27E1ED4F-14F0-47EC-BB24-98ADBAD23850}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{27E1ED4F-14F0-47EC-BB24-98ADBAD23850}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {0154CB99-E34E-4A36-8147-881AC7AE62C8}
+	EndGlobalSection
+EndGlobal
